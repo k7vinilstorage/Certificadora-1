@@ -1,0 +1,20 @@
+#Title1{
+    color: whitesmoke;
+    font-family: Poppins;
+}
+
+body{
+    background-color: #ED6978;
+    font-family: Poppins;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
